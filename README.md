@@ -1,6 +1,7 @@
-<h1>Hi, I'm Sinan! Cybersecurity Analyst </h1>
+<h1>Hi, I'm Sinan! Pronounced!  "See None"  Cybersecurity Analyst </h1>
 
-</h2> Passionate to apply my education, experience and skills to safeguard the confidentiality, integrity, and availability of information systems, identity, and data assets by providing proactive security expertise, creating and maintaining a resilient and secure infrastructure, and fostering a culture of Cybersecurity awareness.</h2>
+</h2> Passionate to apply my education, experience and skills to safeguard the confidentiality, integrity, and availability of information systems, identity, and data assets by providing proactive security expertise, creating and maintaining a resilient and secure infrastructure, and fostering a culture of Cybersecurity awareness. 
+My curiosity to the Cybersecurity realm is always pushing me to stay up to date with the recent incidents, breaches and tools to learn how to mitigate these threats and challenges and I found it thrilling and enjoyable to do so. </h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
