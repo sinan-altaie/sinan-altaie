@@ -5,6 +5,8 @@ My curiosity to the Cybersecurity realm is always pushing me to stay up to date 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Vulnerabilities Scanning and Exploitations (Penetration Testing)](https://drive.google.com/file/d/1i9tA5v5LtEJ4Zzb9gJnjh6ICpkvFrY2C/view)
+
   - [IT SYSTEM NETWORKS, Implementing and Troubleshooting Virtual Machines Network](https://drive.google.com/file/d/1cZ5mWTFNqf069xQtTjPrCE3wEAF201v4/view)
 
 <h2>📃 Certifications</h2>
