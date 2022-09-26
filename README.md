@@ -23,7 +23,7 @@
 More about me:
 
 - 🔭 I’m currently working on my Cybersecurity Professional Development
-- 🌱 I’m currently learning Penteration Test
+- 🌱 I’m currently learning Penteration Testing
 - 👯 I’m looking to collaborate on any Red Team topic
 - 🤔 I’m looking for help with getting a PenTest work opportiunity 
 - 💬 Ask me about ...
