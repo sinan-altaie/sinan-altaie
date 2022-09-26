@@ -9,7 +9,7 @@ My curiosity to the Cybersecurity realm is always pushing me to stay up to date 
   - [Port Scanner using Python](https://drive.google.com/file/d/16eleIiiQ5P5xN9tD3E-PH77lmMvnEWCr/view)
   - [IT SYSTEM NETWORKS, Implementing and Troubleshooting Virtual Machines Network](https://drive.google.com/file/d/1cZ5mWTFNqf069xQtTjPrCE3wEAF201v4/view)
 
-<h2>📃 Certifications</h2>
+<h2>📃 Certifications:</h2>
 
    - [CompTIA Security+](https://www.credly.com/badges/d68e64ba-7a56-426f-b1bd-bbf9a3f13c9b/public_url)
    - [CompTIA PenTest+](https://www.credly.com/badges/9f29460e-1153-4221-b14a-f6b877157f3d/public_url)
