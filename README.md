@@ -1,5 +1,7 @@
 <h1>Hi, I'm Sinan! Cybersecurity Analyst </h1>
 
+</h2> Passionate to apply my education, experience and skills to safeguard the confidentiality, integrity, and availability of information systems, identity, and data assets by providing proactive security expertise, creating and maintaining a resilient and secure infrastructure, and fostering a culture of Cybersecurity awareness.</h2>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
@@ -8,33 +10,24 @@
 <h2>📃 Certifications</h2>
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="saltaie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="saltaie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/saltaie_infosec
 [linkedin]: https://linkedin.com/in/sinan-al-taie
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+More about me:
+
+- 🔭 I’m currently working on my Cybersecurity Professional Development
+- 🌱 I’m currently learning Penteration Test
+- 👯 I’m looking to collaborate on any Red Team topic
+- 🤔 I’m looking for help with getting a PenTest work opportiunity 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: saltaie@outlook.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: whoami Husband/Dad for two kids ... Diligent and Curious Cybersecurity Professional  
+
