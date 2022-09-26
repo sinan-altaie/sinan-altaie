@@ -26,9 +26,9 @@ More about me:
 - 🔭 I’m currently working on my Cybersecurity Professional Development
 - 🌱 I’m currently learning Penteration Testing
 - 👯 I’m looking to collaborate on any Red Team topic
-- 🤔 I’m looking for help with getting a PenTest work opportiunity 
+- 🤔 I’m currently looking for a PenTest work opportiunity 
 - 💬 Ask me about ...
 - 📫 How to reach me: saltaie@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: whoami Husband/Dad for two kids ... Diligent and Curious Cybersecurity Professional  
+- ⚡ Fun fact: whoami Husband & Dad for two kids ... Diligent and Curious Cybersecurity Professional  
 
