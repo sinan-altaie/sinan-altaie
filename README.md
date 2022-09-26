@@ -5,8 +5,7 @@ My curiosity to the Cybersecurity realm is always pushing me to stay up to date 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [IT SYSTEM NETWORKS, Implementing and Troubleshooting Virtual Machines Network](https://drive.google.com/file/d/1cZ5mWTFNqf069xQtTjPrCE3wEAF201v4/view)
 
 <h2>📃 Certifications</h2>
 
@@ -26,7 +25,7 @@ More about me:
 - 🔭 I’m currently working on my Cybersecurity Professional Development
 - 🌱 I’m currently learning Penteration Testing
 - 👯 I’m looking to collaborate on any Red Team topic
-- 🤔 I’m currently looking for a PenTest work opportiunity 
+- 🤔 I’m currently looking for a PenTest work opportunity   
 - 💬 Ask me about ...
 - 📫 How to reach me: saltaie@outlook.com
 - 😄 Pronouns: he/him
