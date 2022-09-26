@@ -10,7 +10,7 @@ My curiosity to the Cybersecurity realm is always pushing me to stay up to date 
   - [IT SYSTEM NETWORKS, Implementing and Troubleshooting Virtual Machines Network](https://drive.google.com/file/d/1cZ5mWTFNqf069xQtTjPrCE3wEAF201v4/view)
 
 <h2>📃 Certifications</h2>
-
+  - [CompTIA Security+](https://www.credly.com/badges/d68e64ba-7a56-426f-b1bd-bbf9a3f13c9b/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
