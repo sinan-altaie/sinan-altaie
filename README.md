@@ -5,7 +5,7 @@ My curiosity to the Cybersecurity realm is always pushing me to stay up to date 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Penetration Testing - Black Box Scenario](https://drive.google.com/file/d/1_8Ho4xmQaDI83X1UXul95tCjvL7iNYtx/view?usp=sharing)
+  - [Penetration Testing - Black Box Scenario](https://drive.google.com/file/d/1_8Ho4xmQaDI83X1UXul95tCjvL7iNYtx/view)
   - [Vulnerabilities Scanning and Exploitations (Penetration Testing)](https://drive.google.com/file/d/1i9tA5v5LtEJ4Zzb9gJnjh6ICpkvFrY2C/view)
   - [Python Port Scanner](https://drive.google.com/file/d/16eleIiiQ5P5xN9tD3E-PH77lmMvnEWCr/view)
   - [IT SYSTEM NETWORKS, Implementing and Troubleshooting Virtual Machines Network](https://drive.google.com/file/d/1cZ5mWTFNqf069xQtTjPrCE3wEAF201v4/view)
