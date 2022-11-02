@@ -40,5 +40,5 @@ More about me:
 - 💬 Ask me about ...
 - 📫 How to reach me: saltaie@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: whoami Husband & Dad for two kids ... Diligent and Curious Cybersecurity Professional  
+- ⚡ Fun fact: whoami Dad for two kids ... Diligent and Curious Cybersecurity Professional  
 
