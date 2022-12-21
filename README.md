@@ -12,6 +12,7 @@ My curiosity to the Cybersecurity realm is always pushing me to stay up to date 
 
 <h2>📃 Certifications:</h2>
 
+   - [Certificate of Cybersecurity Program Completion](https://drive.google.com/file/d/1SqxToTy25XAB5xfWOMNqke3gFUGsHoRn/view?usp=sharing)
    - [CompTIA Security+](https://www.credly.com/badges/d68e64ba-7a56-426f-b1bd-bbf9a3f13c9b/public_url)
    - [CompTIA PenTest+](https://www.credly.com/badges/9f29460e-1153-4221-b14a-f6b877157f3d/public_url)
    - [Certified Ethical Hacker CEHv11](https://www.credly.com/badges/8f0204d5-9be2-4636-bee6-9f68455f3268/public_url)
