@@ -1,7 +1,12 @@
 <h1>Hi, I'm Sinan! Pronounced!  "See-None"  Cybersecurity Professional </h1>
 
-</h2> Passionate to apply my education, experience and skills to safeguard the confidentiality, integrity, and availability of information systems, identity, and data assets by providing proactive security expertise, creating and maintaining a resilient and secure infrastructure, and fostering a culture of Cybersecurity awareness. 
-My curiosity to the Cybersecurity realm is always pushing me to stay up to date with the recent incidents, breaches and tools to learn how to mitigate these threats and challenges and I found it thrilling and enjoyable to do so. </h2>
+</h2> Diligent Cybersecurity Manager with 2+ years of experience in implementing and managing comprehensive cybersecurity programs. Proven ability to lead cross-functional teams, enhance security protocols, and ensure compliance with industry standards. Adept at risk assessment, incident response, and security awareness training. Plus 2+ years in Computer Networks, 4+ years in Data Analytics and Business Intelligence, as well as 9+ years in Database Engineering in International Organization level (United Nations & United States Agency for International Development USAID).
+
+Passionate to apply my education, experience and skills to safeguard the confidentiality, integrity, and availability of information systems, identity, and data assets by providing proactive security expertise, creating and maintaining a resilient and secure infrastructure, and fostering a culture of Cybersecurity awareness.
+
+My curiosity to the Cybersecurity realm is always pushing me to stay up to date with the recent incidents, breaches and tools to learn how to mitigate these threats and challenges and I found it thrilling and enjoyable to do so. 
+
+Please don't hesitate to reach out if you want to learn more about me. </h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -34,10 +39,11 @@ My curiosity to the Cybersecurity realm is always pushing me to stay up to date 
 
 More about me:
 
-- 🔭 I’m currently working on my Cybersecurity Professional Development
-- 🌱 I’m currently learning Penteration Testing
-- 👯 I’m looking to collaborate on any Red Team topic
-- 🤔 I’m currently looking for a PenTest work opportunity   
+- 🔭 I’m always working on my Cybersecurity Professional Development
+- 🌱 I enjoy implementing and managing comprehensive cybersecurity programs
+- 👯 I’m looking to collaborate on any Red Team, Blue Team and Purple Team topics
+- 🤔 I’m member of Arizona Innovate Cybersecurity CISO Peer Panel - Since 2023, member of DEFCON Blue Team Village – Project Obsidian Contributor - Since Aug. 2023 and 
+      member of Mimecast Research Team
 - 💬 Ask me about ...
 - 📫 How to reach me: saltaie@outlook.com
 - 😄 Pronouns: he/him
