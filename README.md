@@ -40,7 +40,7 @@ Please don't hesitate to reach out if you want to learn more about me. </h2>
 More about me:
 
 - 🔭 I’m always working on my Cybersecurity Professional Development
-- 🌱 I enjoy implementing and managing comprehensive cybersecurity programs
+- 🌱 I enjoy implementing and managing comprehensive cybersecurity programs and tools
 - 👯 I’m looking to collaborate on any Red Team, Blue Team and Purple Team topics
 - 🤔 I’m member of Arizona Innovate Cybersecurity CISO Peer Panel - Since 2023, member of DEFCON Blue Team Village – Project Obsidian Contributor - Since Aug. 2023 and 
       member of Mimecast Research Team
