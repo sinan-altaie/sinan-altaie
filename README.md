@@ -52,7 +52,6 @@ Security Operations · Incident Response · Crisis Management · GRC · ISO 2700
 
 - 💼 LinkedIn: https://linkedin.com/in/sinan-al-taie
 - ✍️ Medium: https://medium.com/@saltaie
-- 🐦 X: https://x.com/saltaie_infosec
 - 📫 Email: saltaie@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: `whoami` → Dad of two, diligent and curious security professional
